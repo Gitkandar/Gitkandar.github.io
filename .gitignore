@@ -1,0 +1,13 @@
+# Archivos internos de RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# Cache interno de Quarto
+.quarto/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+/.quarto/
