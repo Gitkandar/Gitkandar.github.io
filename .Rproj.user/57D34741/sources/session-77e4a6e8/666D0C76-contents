@@ -1,0 +1,37 @@
+---
+title: ""
+---
+
+:::::: columns
+::: {.column width="70%"}
+## Germán Tessmer
+
+**\[Tu cargo / rol\]** · \[Tu institución / afiliación\]
+
+Soy economista con interés en \[área de investigación principal\]. Mi trabajo se centra en \[descripción breve de temas de investigación\].
+
+Actualmente \[situación actual: doctorando / investigador en / profesor en...\].
+
+### Contacto
+
+📧 [ger.tessmer\@gmail.com](mailto:ger.tessmer@gmail.com)\
+🐙 [github.com/Gitkandar](https://github.com/Gitkandar)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="25%"}
+<!-- Reemplazá foto.jpg por el nombre real de tu imagen -->
+
+![](foto.jpg){style="border-radius: 50%; width: 100%;"}
+:::
+::::::
+
+------------------------------------------------------------------------
+
+### Últimas novedades
+
+-   **\[Mes Año\]** — \[Novedad 1: paper aceptado, presentación, etc.\]
+-   **\[Mes Año\]** — \[Novedad 2\]
+-   **\[Mes Año\]** — \[Novedad 3\]

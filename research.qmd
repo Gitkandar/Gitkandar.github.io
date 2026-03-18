@@ -1,0 +1,31 @@
+---
+title: "Investigación"
+---
+
+### Working Papers
+
+**[Título del paper]** *(Año)*  
+Con [Co-autor/a, si aplica]  
+[Breve descripción en 1-2 oraciones.]  
+[[PDF]](ruta/al/pdf.pdf) · [[SSRN]](https://ssrn.com) · [[Repositorio]](https://github.com/Gitkandar)
+
+---
+
+**[Título del paper 2]** *(Año)*  
+[Breve descripción.]  
+[[PDF]](ruta/al/pdf.pdf)
+
+---
+
+### Publicaciones
+
+**[Título del artículo publicado]** *(Año)*  
+*Nombre de la Revista*, Vol. X, pp. XX–XX.  
+[[DOI]](https://doi.org) · [[PDF]](ruta/al/pdf.pdf)
+
+---
+
+### Trabajo en curso
+
+- [Tema o título tentativo 1]
+- [Tema o título tentativo 2]

@@ -1,0 +1,48 @@
+---
+title: "CV"
+---
+
+[📄 Descargar CV completo (PDF)](cv.pdf){.btn .btn-outline-primary}
+
+---
+
+### Educación
+
+**[Título / Grado]** · *[Universidad]* · [Año inicio – Año fin o "actualidad"]  
+Tesis: "[Título de tesis]" · Director/a: [Nombre]
+
+**[Título / Grado]** · *[Universidad]* · [Año]
+
+---
+
+### Posiciones académicas
+
+**[Cargo]** · *[Institución]* · [Año inicio – Año fin]  
+[Descripción breve opcional]
+
+---
+
+### Docencia
+
+- [Materia / Curso] · *[Institución]* · [Año(s)]
+- [Materia / Curso] · *[Institución]* · [Año(s)]
+
+---
+
+### Presentaciones y conferencias
+
+- **[Nombre del evento]** · [Ciudad, País] · [Año]
+- **[Nombre del evento]** · [Ciudad, País] · [Año]
+
+---
+
+### Becas y distinciones
+
+- [Beca / Premio] · [Organismo] · [Año]
+
+---
+
+### Habilidades
+
+**Software:** R · Stata · Python · LaTeX  
+**Idiomas:** Español (nativo) · Inglés ([nivel])

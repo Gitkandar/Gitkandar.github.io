@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Investigación",
+    "section": "",
+    "text": "Working Papers\n[Título del paper] (Año)\nCon [Co-autor/a, si aplica]\n[Breve descripción en 1-2 oraciones.]\n[PDF] · [SSRN] · [Repositorio]\n\n[Título del paper 2] (Año)\n[Breve descripción.]\n[PDF]\n\n\n\nPublicaciones\n[Título del artículo publicado] (Año)\nNombre de la Revista, Vol. X, pp. XX–XX.\n[DOI] · [PDF]\n\n\n\nTrabajo en curso\n\n[Tema o título tentativo 1]\n[Tema o título tentativo 2]"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Descargar CV completo (PDF)\n\n\nEducación\n[Título / Grado] · [Universidad] · [Año inicio – Año fin o “actualidad”]\nTesis: “[Título de tesis]” · Director/a: [Nombre]\n[Título / Grado] · [Universidad] · [Año]\n\n\n\nPosiciones académicas\n[Cargo] · [Institución] · [Año inicio – Año fin]\n[Descripción breve opcional]\n\n\n\nDocencia\n\n[Materia / Curso] · [Institución] · [Año(s)]\n[Materia / Curso] · [Institución] · [Año(s)]\n\n\n\n\nPresentaciones y conferencias\n\n[Nombre del evento] · [Ciudad, País] · [Año]\n[Nombre del evento] · [Ciudad, País] · [Año]\n\n\n\n\nBecas y distinciones\n\n[Beca / Premio] · [Organismo] · [Año]\n\n\n\n\nHabilidades\nSoftware: R · Stata · Python · LaTeX\nIdiomas: Español (nativo) · Inglés ([nivel])"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Germán Tessmer",
+    "section": "",
+    "text": "[Tu cargo / rol] · [Tu institución / afiliación]\nSoy economista con interés en [área de investigación principal]. Mi trabajo se centra en [descripción breve de temas de investigación].\nActualmente [situación actual: doctorando / investigador en / profesor en…].\n\n\n📧 ger.tessmer@gmail.com\n🐙 github.com/Gitkandar"
+  },
+  {
+    "objectID": "index.html#germán-tessmer",
+    "href": "index.html#germán-tessmer",
+    "title": "Germán Tessmer",
+    "section": "",
+    "text": "[Tu cargo / rol] · [Tu institución / afiliación]\nSoy economista con interés en [área de investigación principal]. Mi trabajo se centra en [descripción breve de temas de investigación].\nActualmente [situación actual: doctorando / investigador en / profesor en…].\n\n\n📧 ger.tessmer@gmail.com\n🐙 github.com/Gitkandar"
+  }
+]
