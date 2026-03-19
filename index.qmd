@@ -1,17 +1,5 @@
 ---
 title: ""
-image: foto.jpg
-about:
-  template: trestles
-  image-shape: round
-  image-width: 12em
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/Gitkandar
-    - icon: envelope
-      text: Email
-      href: mailto:ger.tessmer@gmail.com
 ---
 
 ## Germán Tessmer
@@ -21,6 +9,8 @@ about:
 Soy economista con interés en \[área de investigación principal\]. Mi trabajo se centra en \[descripción breve de temas de investigación\].
 
 Actualmente \[situación actual: doctorando / investigador en / profesor en...\].
+
+📧 [ger.tessmer\@gmail.com](mailto:ger.tessmer@gmail.com) · 🐙 [github.com/Gitkandar](https://github.com/Gitkandar)
 
 ------------------------------------------------------------------------
 

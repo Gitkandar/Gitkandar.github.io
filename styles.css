@@ -9,7 +9,7 @@ body {
   border-bottom: 1px solid #e0e0e0;
 }
 
-/* ── Separadores entre papers ───────────────────────── */
+/* ── Separadores ────────────────────────────────────── */
 hr {
   margin: 1.5rem 0;
   border-color: #e8e8e8;
@@ -18,9 +18,4 @@ hr {
 /* ── Botón de descarga CV ───────────────────────────── */
 .btn-outline-primary {
   margin-bottom: 1.5rem;
-}
-
-/* ── Foto de perfil (por si el columnar no aplica) ──── */
-img[alt=""] {
-  border-radius: 50%;
 }
