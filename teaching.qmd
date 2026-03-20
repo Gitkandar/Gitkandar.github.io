@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-## Universidad Nacional de Rosario
+## Universidad Nacional de Rosario (UNR)
 
 **Undergraduate**
 
@@ -19,10 +19,13 @@ title: "Teaching"
 
 - Industrial Organization *(Guest Lecturer, 2021)*
 - Mathematics, Statistics & Microeconomics Bootcamp *(Guest Lecturer, 2021)*
+
+
+**Undergraduate**
+
 - Topics in Macroeconomics *(Guest Lecturer, 2020)*
-- Macroeconomics *(Guest Lecturer, 2020)*
 - History of Economic Thought *(Guest Lecturer, 2019)*
-- Political Economy and Business in Asia and the Pacific *(Guest Lecturer, 2019)*
+
 
 ---
 

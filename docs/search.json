@@ -7,8 +7,8 @@
     "text": "Undergraduate\n\nEconometrics II (Lecturer, 2024–present)\nSociology (Teaching Assistant, 2021–present)\nIntroduction to Social Sciences (Teaching Assistant, 2014–2020)\nMicroeconomics II (Teaching Assistant, 2010–2020)"
   },
   {
-    "objectID": "teaching.html#universidad-nacional-de-rosario",
-    "href": "teaching.html#universidad-nacional-de-rosario",
+    "objectID": "teaching.html#universidad-nacional-de-rosario-unr",
+    "href": "teaching.html#universidad-nacional-de-rosario-unr",
     "title": "Teaching",
     "section": "",
     "text": "Undergraduate\n\nEconometrics II (Lecturer, 2024–present)\nSociology (Teaching Assistant, 2021–present)\nIntroduction to Social Sciences (Teaching Assistant, 2014–2020)\nMicroeconomics II (Teaching Assistant, 2010–2020)"
@@ -18,7 +18,7 @@
     "href": "teaching.html#universidad-austral-rosario",
     "title": "Teaching",
     "section": "Universidad Austral (Rosario)",
-    "text": "Universidad Austral (Rosario)\nGraduate\n\nIndustrial Organization (Guest Lecturer, 2021)\nMathematics, Statistics & Microeconomics Bootcamp (Guest Lecturer, 2021)\nTopics in Macroeconomics (Guest Lecturer, 2020)\nMacroeconomics (Guest Lecturer, 2020)\nHistory of Economic Thought (Guest Lecturer, 2019)\nPolitical Economy and Business in Asia and the Pacific (Guest Lecturer, 2019)"
+    "text": "Universidad Austral (Rosario)\nGraduate\n\nIndustrial Organization (Guest Lecturer, 2021)\nMathematics, Statistics & Microeconomics Bootcamp (Guest Lecturer, 2021)\n\nUndergraduate\n\nTopics in Macroeconomics (Guest Lecturer, 2020)\nHistory of Economic Thought (Guest Lecturer, 2019)"
   },
   {
     "objectID": "teaching.html#universidad-de-san-andrés",
@@ -46,21 +46,21 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)"
+    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)\nApplied Economics Consultant, private sector (2022–present)"
   },
   {
     "objectID": "cv.html#current-position",
     "href": "cv.html#current-position",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)"
+    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)\nApplied Economics Consultant, private sector (2022–present)"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nPeriod\nDegree\nInstitution\n\n\n\n\n2012–2013\nMA in Economics\nUniversidad de San Andrés\n\n\n2009–2014\nPhD in Economics (thesis pending)\nUniversidad Nacional de Rosario\n\n\n2000–2006\nBA in Economics (thesis grade: 10/10)\nUniversidad Nacional de Rosario\n\n\n2014–2015\nUniversity Teaching Certificate\nUniversidad Abierta Interamericana\n\n\n2016\nManagement Development Program\nUniversidad Torcuato Di Tella"
+    "text": "Education\n\n\n\n\n\n\n\n\nPeriod\nDegree\nInstitution\n\n\n\n\n2009–2014\nPhD in Economics (doctoral candidate)\nUniversidad Nacional de Rosario\n\n\n2012–2013\nMA in Economics\nUniversidad de San Andrés\n\n\n2016\nManagement Development Program\nUniversidad Torcuato Di Tella\n\n\n2014–2015\nUniversity Teaching Certificate\nUniversidad Abierta Interamericana\n\n\n2000–2006\nBA in Economics (thesis grade: 10/10)\nUniversidad Nacional de Rosario"
   },
   {
     "objectID": "cv.html#experience",
@@ -88,14 +88,14 @@
     "href": "cv.html#languages",
     "title": "Curriculum Vitae",
     "section": "Languages",
-    "text": "Languages\n\n\n\n\n\n\n\n\nLanguage\nLevel\nCertification\n\n\n\n\nEnglish\nC2\nCAE · Cambridge (2023); C2 EFSET · EF Education First (2025)\n\n\nSpanish\nNative\n—"
+    "text": "Languages\n\n\n\n\n\n\n\n\nLanguage\nLevel\nCertification\n\n\n\n\nEnglish\nC2\nCAE · Cambridge (2025); C2 EFSET · EF Education First (2025)\n\n\nSpanish\nNative\n—"
   },
   {
     "objectID": "cv.html#technical-skills",
     "href": "cv.html#technical-skills",
     "title": "Curriculum Vitae",
     "section": "Technical Skills",
-    "text": "Technical Skills\nData analysis: R · Python · SQL · Power BI\nEmpirical methods: LASSO / post-LASSO · causal inference · Heckman selection models · reproducible pipelines\nTools: Git · R Markdown / Quarto · AI-assisted empirical workflows\nCertifications: Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024) · CAE Cambridge (2023)\n\nFull CV available upon request."
+    "text": "Technical Skills\nData analysis: R · Python · SQL · Power BI\nEmpirical methods: LASSO / post-LASSO · causal inference · Heckman selection models · reproducible pipelines\nTools: Git · R Markdown / Quarto · AI-assisted empirical workflows\nCertifications: CAE Cambridge (2025) · Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024)\n\nFull CV available upon request."
   },
   {
     "objectID": "research.html",

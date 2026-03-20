@@ -8,17 +8,19 @@ title: "Curriculum Vitae"
 
 **Lecturer**, Econometrics II · Faculty of Economics and Statistics, UNR *(2024–present)*
 
+**Applied Economics Consultant**, private sector *(2022–present)*
+
 ---
 
 ## Education
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
+| 2009–2014 | PhD in Economics *(doctoral candidate)* | Universidad Nacional de Rosario |
 | 2012–2013 | MA in Economics | Universidad de San Andrés |
-| 2009–2014 | PhD in Economics *(thesis pending)* | Universidad Nacional de Rosario |
-| 2000–2006 | BA in Economics *(thesis grade: 10/10)* | Universidad Nacional de Rosario |
-| 2014–2015 | University Teaching Certificate | Universidad Abierta Interamericana |
 | 2016 | Management Development Program | Universidad Torcuato Di Tella |
+| 2014–2015 | University Teaching Certificate | Universidad Abierta Interamericana |
+| 2000–2006 | BA in Economics *(thesis grade: 10/10)* | Universidad Nacional de Rosario |
 
 ---
 
@@ -28,6 +30,7 @@ title: "Curriculum Vitae"
 
 - **Director**, Observatorio Económico Social UNR *(2019–present)*. Leadership of a research and communication unit under the Vice-Rectorate. Production of open data, economic reports, and public-facing analysis for policymakers, journalists, and the general public.
 - **Deputy Director**, Observatorio Económico Social UNR *(2014–2019)*.
+ 
 
 ### Teaching
 
@@ -78,7 +81,7 @@ Director and co-author of over 60 research and outreach reports published betwee
 
 | Language | Level | Certification |
 |----------|-------|---------------|
-| English | C2 | CAE · Cambridge (2023); C2 EFSET · EF Education First (2025) |
+| English | C2 | CAE · Cambridge (2025); C2 EFSET · EF Education First (2025) |
 | Spanish | Native | — |
 
 ---
@@ -91,7 +94,7 @@ Director and co-author of over 60 research and outreach reports published betwee
 
 **Tools:** Git · R Markdown / Quarto · AI-assisted empirical workflows
 
-**Certifications:** Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024) · CAE Cambridge (2023)
+**Certifications:** CAE Cambridge (2025) · Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024) 
 
 ---
 
