@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Investigación",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Working Papers\n[Título del paper] (Año)\nCon [Co-autor/a, si aplica]\n[Breve descripción en 1-2 oraciones.]\n[PDF] · [SSRN] · [Repositorio]\n\n[Título del paper 2] (Año)\n[Breve descripción.]\n[PDF]\n\n\n\nPublicaciones\n[Título del artículo publicado] (Año)\nNombre de la Revista, Vol. X, pp. XX–XX.\n[DOI] · [PDF]\n\n\n\nTrabajo en curso\n\n[Tema o título tentativo 1]\n[Tema o título tentativo 2]"
+    "text": "Undergraduate\n\nEconometrics II (Lecturer, 2024–present)\nSociology (Teaching Assistant, 2021–present)\nIntroduction to Social Sciences (Teaching Assistant, 2014–2020)\nMicroeconomics II (Teaching Assistant, 2010–2020)"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "teaching.html#universidad-nacional-de-rosario",
+    "href": "teaching.html#universidad-nacional-de-rosario",
+    "title": "Teaching",
     "section": "",
-    "text": "📄 Descargar CV completo (PDF)\n\n\nEducación\n[Título / Grado] · [Universidad] · [Año inicio – Año fin o “actualidad”]\nTesis: “[Título de tesis]” · Director/a: [Nombre]\n[Título / Grado] · [Universidad] · [Año]\n\n\n\nPosiciones académicas\n[Cargo] · [Institución] · [Año inicio – Año fin]\n[Descripción breve opcional]\n\n\n\nDocencia\n\n[Materia / Curso] · [Institución] · [Año(s)]\n[Materia / Curso] · [Institución] · [Año(s)]\n\n\n\n\nPresentaciones y conferencias\n\n[Nombre del evento] · [Ciudad, País] · [Año]\n[Nombre del evento] · [Ciudad, País] · [Año]\n\n\n\n\nBecas y distinciones\n\n[Beca / Premio] · [Organismo] · [Año]\n\n\n\n\nHabilidades\nSoftware: R · Stata · Python · LaTeX\nIdiomas: Español (nativo) · Inglés ([nivel])"
+    "text": "Undergraduate\n\nEconometrics II (Lecturer, 2024–present)\nSociology (Teaching Assistant, 2021–present)\nIntroduction to Social Sciences (Teaching Assistant, 2014–2020)\nMicroeconomics II (Teaching Assistant, 2010–2020)"
+  },
+  {
+    "objectID": "teaching.html#universidad-austral-rosario",
+    "href": "teaching.html#universidad-austral-rosario",
+    "title": "Teaching",
+    "section": "Universidad Austral (Rosario)",
+    "text": "Universidad Austral (Rosario)\nGraduate\n\nIndustrial Organization (Guest Lecturer, 2021)\nMathematics, Statistics & Microeconomics Bootcamp (Guest Lecturer, 2021)\nTopics in Macroeconomics (Guest Lecturer, 2020)\nMacroeconomics (Guest Lecturer, 2020)\nHistory of Economic Thought (Guest Lecturer, 2019)\nPolitical Economy and Business in Asia and the Pacific (Guest Lecturer, 2019)"
+  },
+  {
+    "objectID": "teaching.html#universidad-de-san-andrés",
+    "href": "teaching.html#universidad-de-san-andrés",
+    "title": "Teaching",
+    "section": "Universidad de San Andrés",
+    "text": "Universidad de San Andrés\nUndergraduate\n\nEconomics I (Teaching Assistant, 2013)"
+  },
+  {
+    "objectID": "index.html#germán-a.-tessmer",
+    "href": "index.html#germán-a.-tessmer",
+    "title": "Germán A. Tessmer",
+    "section": "Germán A. Tessmer",
+    "text": "Germán A. Tessmer\nI am an economist at Universidad Nacional de Rosario (UNR), where I direct the Observatorio Económico Social and teach Econometrics. My work is grounded in labor economics — informality, wage premia, and employment dynamics in Argentina — and carried out with the methods that now define rigorous applied research: causal inference, machine learning for variable selection, and AI-assisted empirical workflows.\nC.V.  ·  Research\nemail: ger.tessmer@gmail.com  ·  german.tessmer@unr.edu.ar"
   },
   {
     "objectID": "about.html",
@@ -21,17 +42,94 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Germán Tessmer",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "[Tu cargo / rol] · [Tu institución / afiliación]\nSoy economista con interés en [área de investigación principal]. Mi trabajo se centra en [descripción breve de temas de investigación].\nActualmente [situación actual: doctorando / investigador en / profesor en…].\n📧 ger.tessmer@gmail.com · 🐙 github.com/Gitkandar\n\n\n\n\n[Mes Año] — [Novedad 1: paper aceptado, presentación, etc.]\n[Mes Año] — [Novedad 2]\n[Mes Año] — [Novedad 3]"
+    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)"
   },
   {
-    "objectID": "index.html#germán-tessmer",
-    "href": "index.html#germán-tessmer",
-    "title": "Germán Tessmer",
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "[Tu cargo / rol] · [Tu institución / afiliación]\nSoy economista con interés en [área de investigación principal]. Mi trabajo se centra en [descripción breve de temas de investigación].\nActualmente [situación actual: doctorando / investigador en / profesor en…].\n📧 ger.tessmer@gmail.com · 🐙 github.com/Gitkandar\n\n\n\n\n[Mes Año] — [Novedad 1: paper aceptado, presentación, etc.]\n[Mes Año] — [Novedad 2]\n[Mes Año] — [Novedad 3]"
+    "text": "Director, Observatorio Económico Social · Universidad Nacional de Rosario (UNR) (2019–present)\nLecturer, Econometrics II · Faculty of Economics and Statistics, UNR (2024–present)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nPeriod\nDegree\nInstitution\n\n\n\n\n2012–2013\nMA in Economics\nUniversidad de San Andrés\n\n\n2009–2014\nPhD in Economics (thesis pending)\nUniversidad Nacional de Rosario\n\n\n2000–2006\nBA in Economics (thesis grade: 10/10)\nUniversidad Nacional de Rosario\n\n\n2014–2015\nUniversity Teaching Certificate\nUniversidad Abierta Interamericana\n\n\n2016\nManagement Development Program\nUniversidad Torcuato Di Tella"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nInstitutional Management & Research\n\nDirector, Observatorio Económico Social UNR (2019–present). Leadership of a research and communication unit under the Vice-Rectorate. Production of open data, economic reports, and public-facing analysis for policymakers, journalists, and the general public.\nDeputy Director, Observatorio Económico Social UNR (2014–2019).\n\n\n\nTeaching\n\nLecturer, Econometrics II · UNR (2024–present)\nTeaching Assistant, Sociology · UNR (2021–present)\nInstructor, Foundations of Data Analytics · UNR School of Trades (2023–2024)\nTeaching Assistant, Introduction to Social Sciences & Microeconomics II · UNR (2014–2020)\nGuest Lecturer, Graduate seminars · Universidad Austral Rosario (2019–2021)\nTeaching Assistant, Economics I · Universidad de San Andrés (2013)\n\n\n\nConsulting\n\nSectoral analysis of the rubber and latex market (private client, 2022–present)\nProductive Structure of Chaco Province — Livestock Sector · Ministry of Economy of Chaco (2023)\nHazardous Waste Observatory (2021–present)"
+  },
+  {
+    "objectID": "cv.html#research-selected-publications",
+    "href": "cv.html#research-selected-publications",
+    "title": "Curriculum Vitae",
+    "section": "Research & Selected Publications",
+    "text": "Research & Selected Publications\n\nWorking Papers\n\nFrom Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series (with Bárbara Boggiano)\n\n\n\nData\n\nTessmer, G.; Moleres, S.; Hess, L. E. (2024). EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada. Universidad Nacional de Rosario. doi:10.57715/UNR/BL85Z8\n\n\n\nBook\n\nNavarro, A. I.; Tessmer, G.; D’Elia, V.; et al. (2018). Cruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario. Xanto Editora. ISBN: 978-987-42-9366-4. → Repository\n\n\n\nReports & Outreach\nDirector and co-author of over 60 research and outreach reports published between 2015 and 2024 through the Observatorio Económico Social UNR (ISSN 2683-9067). All reports available through the UNR institutional repository."
+  },
+  {
+    "objectID": "cv.html#academic-evaluation",
+    "href": "cv.html#academic-evaluation",
+    "title": "Curriculum Vitae",
+    "section": "Academic Evaluation",
+    "text": "Academic Evaluation\n\nThesis jury and external examiner for MA theses at Universidad de San Andrés and Universidad Austral.\nExternal peer reviewer: Papers. Revista de Sociología, Universitat Autònoma de Barcelona (2025).\nThesis jury for undergraduate dissertations, UNR (2021–present)."
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\n\n\n\n\n\n\n\nLanguage\nLevel\nCertification\n\n\n\n\nEnglish\nC2\nCAE · Cambridge (2023); C2 EFSET · EF Education First (2025)\n\n\nSpanish\nNative\n—"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nData analysis: R · Python · SQL · Power BI\nEmpirical methods: LASSO / post-LASSO · causal inference · Heckman selection models · reproducible pipelines\nTools: Git · R Markdown / Quarto · AI-assisted empirical workflows\nCertifications: Data Analyst with R (DataCamp, 2024) · R Programming Track (DataCamp, 2017) · Intermediate SQL · PostgreSQL Window Functions · Introduction to Python (DataCamp, 2022–2024) · CAE Cambridge (2023)\n\nFull CV available upon request."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series (with Bárbara Boggiano)"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series (with Bárbara Boggiano)"
+  },
+  {
+    "objectID": "research.html#data",
+    "href": "research.html#data",
+    "title": "Research",
+    "section": "Data",
+    "text": "Data\n\nEPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada (with Santiago Moleres & Laureano E. Hess)\nUniversidad Nacional de Rosario, 2024. doi:10.57715/UNR/BL85Z8"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nCruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario (with Ana Inés Navarro, Vanesa D’Elia, et al.)\nXanto Editora, 2018. ISBN: 978-987-42-9366-4."
+  },
+  {
+    "objectID": "research.html#reports-outreach",
+    "href": "research.html#reports-outreach",
+    "title": "Research",
+    "section": "Reports & Outreach",
+    "text": "Reports & Outreach\nDirector and co-author of over 60 research and outreach reports published between 2015 and 2024 through the Observatorio Económico Social UNR (ISSN 2683-9067), covering labor markets, monetary policy, housing, energy, and regional economics. All reports are available through the UNR institutional repository."
   }
 ]

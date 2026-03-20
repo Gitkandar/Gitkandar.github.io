@@ -2,20 +2,12 @@
 title: ""
 ---
 
-## Germán Tessmer
+<img src="profile.jpg" alt="Germán A. Tessmer" style="float: right; margin: 0 0 1.5rem 2rem; width: 200px; border-radius: 6px;"/>
 
-**\[Tu cargo / rol\]** · \[Tu institución / afiliación\]
+## Germán A. Tessmer
 
-Soy economista con interés en \[área de investigación principal\]. Mi trabajo se centra en \[descripción breve de temas de investigación\].
+I am an economist at [Universidad Nacional de Rosario (UNR)](https://www.unr.edu.ar), where I direct the [Observatorio Económico Social](https://observatorio.unr.edu.ar) and teach Econometrics. My work is grounded in labor economics — informality, wage premia, and employment dynamics in Argentina — and carried out with the methods that now define rigorous applied research: causal inference, machine learning for variable selection, and AI-assisted empirical workflows.
 
-Actualmente \[situación actual: doctorando / investigador en / profesor en...\].
+[C.V.](cv.qmd)  ·  [Research](research.qmd)
 
-📧 [ger.tessmer\@gmail.com](mailto:ger.tessmer@gmail.com) · 🐙 [github.com/Gitkandar](https://github.com/Gitkandar)
-
-------------------------------------------------------------------------
-
-### Últimas novedades
-
--   **\[Mes Año\]** — \[Novedad 1: paper aceptado, presentación, etc.\]
--   **\[Mes Año\]** — \[Novedad 2\]
--   **\[Mes Año\]** — \[Novedad 3\]
+email: [ger.tessmer\@gmail.com](mailto:ger.tessmer@gmail.com)  ·  [german.tessmer\@unr.edu.ar](mailto:german.tessmer@unr.edu.ar)

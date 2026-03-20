@@ -3,21 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Germán Tessmer"
+  title: "Germán A. Tessmer"
   navbar:
     left:
-      - href: index.qmd
-        text: Sobre mí
-      - href: research.qmd
-        text: Investigación
-      - href: cv.qmd
-        text: CV
-    right:
-      - icon: github
-        href: https://github.com/Gitkandar
-        aria-label: GitHub
-  page-footer:
-    center: "© Germán Tessmer — Sitio generado con [Quarto](https://quarto.org)"
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
 
 format:
   html:

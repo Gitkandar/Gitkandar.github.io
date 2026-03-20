@@ -1,31 +1,27 @@
 ---
-title: "Investigación"
+title: "Research"
 ---
 
-### Working Papers
+## Working Papers
 
-**[Título del paper]** *(Año)*  
-Con [Co-autor/a, si aplica]  
-[Breve descripción en 1-2 oraciones.]  
-[[PDF]](ruta/al/pdf.pdf) · [[SSRN]](https://ssrn.com) · [[Repositorio]](https://github.com/Gitkandar)
+- [**From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series**]{} *(with Bárbara Boggiano)*
 
 ---
 
-**[Título del paper 2]** *(Año)*  
-[Breve descripción.]  
-[[PDF]](ruta/al/pdf.pdf)
+## Data
+
+- [**EPH – Observatorio. Encuesta Permanente de Hogares de Argentina. Explicada, etiquetada y ampliada**](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"} *(with Santiago Moleres & Laureano E. Hess)*  
+  Universidad Nacional de Rosario, 2024. [doi:10.57715/UNR/BL85Z8](https://doi.org/10.57715/UNR/BL85Z8){target="_blank"}
 
 ---
 
-### Publicaciones
+## Publications
 
-**[Título del artículo publicado]** *(Año)*  
-*Nombre de la Revista*, Vol. X, pp. XX–XX.  
-[[DOI]](https://doi.org) · [[PDF]](ruta/al/pdf.pdf)
+- [**Cruzar la meta y seguir corriendo. La Universidad Nacional de Rosario y la empleabilidad de sus graduados en el Gran Rosario**](http://hdl.handle.net/2133/14532){target="_blank"} *(with Ana Inés Navarro, Vanesa D'Elia, et al.)*  
+  Xanto Editora, 2018. ISBN: 978-987-42-9366-4.
 
 ---
 
-### Trabajo en curso
+## Reports & Outreach
 
-- [Tema o título tentativo 1]
-- [Tema o título tentativo 2]
+Director and co-author of over 60 research and outreach reports published between 2015 and 2024 through the [Observatorio Económico Social UNR](https://observatorio.unr.edu.ar){target="_blank"} (ISSN 2683-9067), covering labor markets, monetary policy, housing, energy, and regional economics. All reports are available through the [UNR institutional repository](http://hdl.handle.net/2133/){target="_blank"}.
