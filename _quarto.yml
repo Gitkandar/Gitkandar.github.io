@@ -12,6 +12,7 @@ website:
         href: teaching.qmd
       - text: "CV"
         href: cv.qmd
+  google-analytics: "G-5VY12JPMM3"
 
 format:
   html:
