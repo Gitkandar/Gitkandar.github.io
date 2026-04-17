@@ -31,3 +31,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header:
+      text: '<meta name="google-site-verification" content="9aR9tJ_RcU7Avv-yqDnPfpiy6j9cwBEOk85IE-PUnbY" />'
