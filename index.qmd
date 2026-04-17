@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Germán A. Tessmer — Economist"
+description: "Economist at Universidad Nacional de Rosario (UNR). Director of Observatorio Económico Social. Research in labor economics, informality, wage premia, and causal inference in Argentina."
 ---
 
 <img src="profile.jpg" alt="Germán A. Tessmer" style="float: right; margin: 0 0 1.5rem 2rem; width: 200px; border-radius: 6px;"/>

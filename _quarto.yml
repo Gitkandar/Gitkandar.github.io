@@ -1,9 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - robots.txt
 
 website:
   title: "Germán A. Tessmer"
+  site-url: https://germantessmer.github.io
+  description: "Germán A. Tessmer — Economist at Universidad Nacional de Rosario (UNR). Research in labor economics, informality, and causal inference. Director of Observatorio Económico Social UNR."
   favicon: favicon.png
   navbar:
     left:
@@ -14,6 +18,13 @@ website:
       - text: "CV"
         href: cv.qmd
   google-analytics: "G-5VY12JPMM3"
+  open-graph:
+    locale: en_US
+    site-name: "Germán A. Tessmer"
+    image: profile.jpg
+  twitter-card:
+    card-style: summary
+    image: profile.jpg
 
 format:
   html:

@@ -1,5 +1,6 @@
 ---
-title: "Teaching"
+title: "Teaching — Germán A. Tessmer"
+description: "Teaching experience in Econometrics, Microeconomics, and Social Sciences at Universidad Nacional de Rosario, Universidad Austral, and Universidad de San Andrés."
 ---
 
 ## Universidad Nacional de Rosario (UNR)

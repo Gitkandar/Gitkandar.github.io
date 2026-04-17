@@ -1,5 +1,6 @@
 ---
-title: "Research"
+title: "Research — Germán A. Tessmer"
+description: "Working papers, publications, and datasets by Germán A. Tessmer. Labor economics, household surveys (EPH), informality, and applied econometrics in Argentina."
 ---
 
 ## Working Papers

@@ -1,5 +1,6 @@
 ---
-title: "Curriculum Vitae"
+title: "CV — Germán A. Tessmer"
+description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Observatorio Económico Social UNR, Econometrics Lecturer. Education, publications, consulting, and technical skills."
 ---
 
 ## Current Position

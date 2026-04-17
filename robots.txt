@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://germantessmer.github.io/sitemap.xml
