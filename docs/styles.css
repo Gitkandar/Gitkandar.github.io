@@ -15,6 +15,19 @@ hr {
   border-color: #e8e8e8;
 }
 
+/* ── Jerarquía de color en textos ──────────────────── */
+h1, h2 {
+  color: #000000;
+}
+
+h3 {
+  color: #193644;
+}
+
+strong {
+  color: #5B6274;
+}
+
 /* ── Botón de descarga CV ───────────────────────────── */
 .btn-outline-primary {
   margin-bottom: 1.5rem;
