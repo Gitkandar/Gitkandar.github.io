@@ -5,7 +5,7 @@ description: "Working papers, publications, and datasets by Germán A. Tessmer. 
 
 ## Working Papers
 
-- [**From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series**]{} *(with Bárbara Boggiano)*
+- [**From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} *(with Bárbara Boggiano)*
 
 ---
 
