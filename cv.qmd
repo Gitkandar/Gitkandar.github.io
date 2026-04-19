@@ -54,7 +54,7 @@ description: "Curriculum Vitae of Germán A. Tessmer. Economist, Director of Obs
 
 ### Working Papers
 
-- [**From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"} *(with Bárbara Boggiano)*
+- **From Breaks to Bridges: Harmonizing the New and Old Permanent Household Survey for Consistent Labor Market Series** *(with Bárbara Boggiano)* [→ SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6597399){target="_blank"}
 
 ### Data
 
@@ -70,10 +70,10 @@ Director and co-author of over 60 research and outreach reports published betwee
 
 Selected reports:
 
-- [**Nueva ley de alquileres: contexto general y situación de los estudiantes de UNR**](http://hdl.handle.net/2133/22647){target="_blank"} *(with Diego Marfetán Molina, Luciano Jara Musuruana, et al.)* · 2021
-- [**Pre-Covid: Indicadores socio-económicos para AGR y Argentina**](http://hdl.handle.net/2133/18367){target="_blank"} *(with Luciano Jara Musuruana, Diego Marfetán Molina, et al.)* · 2020
-- [**La educación en Santa Fe y Rosario: resultados Aprender 2016**](http://hdl.handle.net/2133/17542){target="_blank"} *(with Patricio Almeida Gentile)* · 2017
-- [**10 preguntas para entender las variaciones del tipo de cambio**](http://hdl.handle.net/2133/14520){target="_blank"} · 2016
+- **Nueva ley de alquileres: contexto general y situación de los estudiantes de UNR** *(with Diego Marfetán Molina, Luciano Jara Musuruana, et al.)* · 2021. [→ Repository](http://hdl.handle.net/2133/22647){target="_blank"}
+- **Pre-Covid: Indicadores socio-económicos para AGR y Argentina** *(with Luciano Jara Musuruana, Diego Marfetán Molina, et al.)* · 2020. [→ Repository](http://hdl.handle.net/2133/18367){target="_blank"}
+- **La educación en Santa Fe y Rosario: resultados Aprender 2016** *(with Patricio Almeida Gentile)* · 2017. [→ Repository](http://hdl.handle.net/2133/17542){target="_blank"}
+- **10 preguntas para entender las variaciones del tipo de cambio** · 2016. [→ Repository](http://hdl.handle.net/2133/14520){target="_blank"}
 
 ---
 
