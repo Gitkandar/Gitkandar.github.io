@@ -16,8 +16,10 @@ hr {
 }
 
 /* ── Jerarquía de color en textos ──────────────────── */
-h1, h2 {
-  color: #0e1b23;
+h1, h2,
+.quarto-title h1.title,
+h2.anchored {
+  color: #0e1b23 !important;
 }
 
 h3 {
